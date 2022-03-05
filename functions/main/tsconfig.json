@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "es2015",
+    "strict": true,
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "preserveConstEnums": true,
+    "allowSyntheticDefaultImports": true,
+    "allowJs": true,
+    "noEmit": true,
+    "sourceMap": false,
+    "forceConsistentCasingInFileNames": true,
+  },
+  "exclude": [
+    "node_modules",
+    "**/*.test.ts"
+  ]
+}
